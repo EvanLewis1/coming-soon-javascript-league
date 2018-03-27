@@ -1,0 +1,25 @@
+{
+  "name": "webit",
+  "version": "1.0.0",
+  "description": "Tute Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/EvanLewis1/probable-lamp.git"
+  },
+  "author": "EvanLewis1 <evanl2@student.unimelb.edu.au>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvanLewis1/probable-lamp/issues"
+  },
+  "homepage": "https://github.com/EvanLewis1/probable-lamp#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.3",
+    "faker": "^4.1.0",
+    "npm": "^5.7.1"
+  }
+}
